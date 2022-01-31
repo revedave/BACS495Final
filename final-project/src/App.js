@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import logo from './logo.svg';
 import './App.css';
 
@@ -18,6 +19,17 @@ function App() {
           Learn React
         </a>
       </header>
+=======
+import './App.css';
+import Header from './Header.js';
+import Footer from './Footer';
+
+function App() {
+  return (
+    <div className='App'>
+      <Header/>
+      <Footer/>
+>>>>>>> c2a0dd0283f8ddf27792325c1edaa24dc8eb76b0
     </div>
   );
 }
