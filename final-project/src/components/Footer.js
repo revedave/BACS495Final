@@ -24,13 +24,6 @@ const Footer = () => {
             <FooterLink href="#">Facebook</FooterLink>
             <FooterLink href="#">LinkedIn</FooterLink>
           </Column>
-          <Column>
-            <Heading>Contact Us</Heading>
-            <FooterLink href="#">Uttar Pradesh</FooterLink>
-            <FooterLink href="#">Ahemdabad</FooterLink>
-            <FooterLink href="#">Indore</FooterLink>
-            <FooterLink href="#">Mumbai</FooterLink>
-          </Column>
         </Row>
       </Container>
     </Box>
